@@ -1,0 +1,14 @@
+﻿  WindowsProject1.cpp
+C:\Users\Gava\Desktop\Prog.C++\homework_c++_4\WindowsProject1\WindowsProject1\WindowsProject1.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Gava\Desktop\Prog.C++\homework_c++_4\WindowsProject1\WindowsProject1\WindowsProject1.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "WindowsProject1.cpp")
+  
+C:\Users\Gava\Desktop\Prog.C++\homework_c++_4\WindowsProject1\WindowsProject1\WindowsProject1.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Gava\Desktop\Prog.C++\homework_c++_4\WindowsProject1\WindowsProject1\WindowsProject1.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Gava\Desktop\Prog.C++\homework_c++_4\WindowsProject1\WindowsProject1\module_2.cpp(60,13): warning C4244: инициализация: преобразование "INT_PTR" в "int", возможна потеря данных
+  (компиляция исходного файла "WindowsProject1.cpp")
+  
+C:\Users\Gava\Desktop\Prog.C++\homework_c++_4\WindowsProject1\WindowsProject1\module_2.cpp(66,13): warning C4244: инициализация: преобразование "INT_PTR" в "int", возможна потеря данных
+  (компиляция исходного файла "WindowsProject1.cpp")
+  
+  WindowsProject1.vcxproj -> C:\Users\Gava\Desktop\Prog.C++\homework_c++_4\WindowsProject1\x64\Debug\WindowsProject1.exe
